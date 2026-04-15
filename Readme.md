@@ -74,7 +74,7 @@ project/
 
 
 
-**Update your DB connection details in payroll.py:**
+* **Update your DB connection details in payroll.py:**
 
 user="your\_username"
 
@@ -106,7 +106,7 @@ python gui.py
 
 
 
-**Salary Calculation Logic**
+* **Salary Calculation Logic**
 
 Gross Salary:
 
